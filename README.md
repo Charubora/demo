@@ -1,2 +1,2 @@
 # demo
-GIT DEMO FIRST REPO PROJECT
+GIT DEMO FIRST REPO PROJECT (learning purpose)
